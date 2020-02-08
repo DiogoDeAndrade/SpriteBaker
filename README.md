@@ -2,6 +2,8 @@
 
 This is an utility to convert something rendered by Unity to a frame animation
 
+![Image](https://github.com/DiogoDeAndrade/SpriteBaker/raw/master/Sample/player.png)
+
 ## Usage
 
 * Setup the scene, making sure that your target animator starts playing the animation you're interested right away
